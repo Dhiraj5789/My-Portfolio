@@ -1,0 +1,129 @@
+{
+  "main": {
+    "name": "Dhiraj Suthar",
+    "occupation": "Frontend Web Developer",
+    "description": "I am a Full-Stack web dev enthusiast.",
+    "image": "profilepic.jpg",
+    "bio": "Protagonist, Problem-Solving, People-Person, Reliable",
+    "contactmessage": "",
+    "email": "dhirajsuthar5789@gmail.com",
+    "phone": "+918696792312",
+    "address": {
+      "street": "",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "zip": ""
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "http://timbakerdev.com",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "https://twitter.com/Dhiraj48564732",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/dhiraj-suthar-430497183/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/dhiraj5789",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/dhiraj5789",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "Technical Skills",
+    "education": [
+      {
+        "school": "Vellore Institute of Technology, Andhra Pradesh",
+        "degree": "Bachelors in Technology",
+        "graduated": "July 2022",
+        "description": "8.32 CGPA"
+      },
+      {
+        "school": "Neerja Modi School, Jaipur",
+        "degree": "CBSE Class 12",
+        "graduated": "May 2018",
+        "description": "79.2%"
+      }
+    ],
+    "work": [
+      {
+        "company": "Adieurable",
+        "title": "Front-end Developer - Intern (React)",
+        "years": "October 2020 - December 2020",
+        "description": ""
+      },
+      {
+        "company": "Bajaj Finserv Health",
+        "title": "React Intern",
+        "years": "January 2022 - July 2022",
+        "description": ""
+      }
+    ],
+    "skills": [
+      {
+        "name": "Git",
+        "level": "45%"
+      },
+      {
+        "name": "ReactJs",
+        "level": "65%"
+      },
+      {
+        "name": "Bootstrap",
+        "level": "85%"
+      },
+      {
+        "name": "CSS",
+        "level": "75%"
+      },
+      {
+        "name": "HTML5",
+        "level": "80%"
+      },
+      {
+        "name": "Javascript",
+        "level": "65%"
+      },
+      {
+        "name": "JAVA",
+        "level": "75%"
+      },
+      {
+        "name": "R",
+        "level": "40%"
+      },
+      {
+        "name": "MySQL",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "",
+        "category": "",
+        "image": "",
+        "url": ""
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "Do not bother just to be better than your contemporaries or predecessors. Try to be better than yourself.",
+        "user": "William Faulkner"
+      }
+    ]
+  }
+}
